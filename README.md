@@ -1,8 +1,8 @@
 # PythonProject_Movie-Data-Clrawler-Visualization-Recommended
 Movie-Data-Clrawler-Visualization-Recommended.
+
 项目简介
 
-（含项目概要、主要功能及实现情况、项目的开发环境/运行环境、项目的github托管网址）
 
 （1）项目概要：
 
